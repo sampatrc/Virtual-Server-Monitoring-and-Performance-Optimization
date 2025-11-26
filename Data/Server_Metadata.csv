@@ -1,0 +1,101 @@
+Server_ID,Hostname,IP_Address,OS_Type,Server_Location,Admin_Name,Server_Cluster,Admin_Email,Admin_Phone
+SRV001,host-001,10.0.186.8,Windows,London,George,CL-8,george@xyzcorp.com,+1-202-749-4405
+SRV002,host-002,10.0.189.206,Linux,Singapore,Alice,CL-2,alice@xyzcorp.com,+1-202-531-6896
+SRV003,host-003,10.0.219.47,Windows,New York,Ethan,CL-2,ethan@xyzcorp.com,+1-202-853-1213
+SRV004,host-004,10.0.185.117,Linux,Mumbai,Fiona,CL-6,fiona@xyzcorp.com,+1-202-230-1591
+SRV005,host-005,10.0.39.146,Windows,New York,Diana,CL-3,diana@xyzcorp.com,+1-202-789-3073
+SRV006,host-006,10.0.232.230,Windows,Mumbai,Alice,CL-4,alice@xyzcorp.com,+1-202-531-6896
+SRV007,host-007,10.0.193.6,Windows,Mumbai,Fiona,CL-9,fiona@xyzcorp.com,+1-202-230-1591
+SRV008,host-008,10.0.121.33,Linux,New York,Bob,CL-1,bob@xyzcorp.com,+1-202-691-4215
+SRV009,host-009,10.0.11.242,Linux,London,Diana,CL-3,diana@xyzcorp.com,+1-202-789-3073
+SRV010,host-010,10.0.44.34,Linux,London,Charlie,CL-4,charlie@xyzcorp.com,+1-202-817-1167
+SRV011,host-011,10.0.220.226,Windows,Singapore,Fiona,CL-7,fiona@xyzcorp.com,+1-202-230-1591
+SRV012,host-012,10.0.183.117,Windows,Singapore,Fiona,CL-3,fiona@xyzcorp.com,+1-202-230-1591
+SRV013,host-013,10.0.95.98,Linux,New York,Hannah,CL-2,hannah@xyzcorp.com,+1-202-151-5538
+SRV014,host-014,10.0.7.78,Windows,Mumbai,Fiona,CL-10,fiona@xyzcorp.com,+1-202-230-1591
+SRV015,host-015,10.0.40.142,Windows,Mumbai,Ethan,CL-3,ethan@xyzcorp.com,+1-202-853-1213
+SRV016,host-016,10.0.2.195,Windows,Mumbai,Charlie,CL-2,charlie@xyzcorp.com,+1-202-817-1167
+SRV017,host-017,10.0.188.240,Windows,Mumbai,Ethan,CL-6,ethan@xyzcorp.com,+1-202-853-1213
+SRV018,host-018,10.0.71.241,Linux,Mumbai,Hannah,CL-9,hannah@xyzcorp.com,+1-202-151-5538
+SRV019,host-019,10.0.37.201,Linux,Frankfurt,Charlie,CL-2,charlie@xyzcorp.com,+1-202-817-1167
+SRV020,host-020,10.0.236.93,Windows,London,Bob,CL-9,bob@xyzcorp.com,+1-202-691-4215
+SRV021,host-021,10.0.171.131,Windows,New York,Alice,CL-10,alice@xyzcorp.com,+1-202-531-6896
+SRV022,host-022,10.0.160.249,Linux,Frankfurt,Diana,CL-8,diana@xyzcorp.com,+1-202-789-3073
+SRV023,host-023,10.0.60.118,Windows,Singapore,Diana,CL-1,diana@xyzcorp.com,+1-202-789-3073
+SRV024,host-024,10.0.249.117,Windows,Mumbai,George,CL-6,george@xyzcorp.com,+1-202-749-4405
+SRV025,host-025,10.0.148.181,Linux,Mumbai,Bob,CL-10,bob@xyzcorp.com,+1-202-691-4215
+SRV026,host-026,10.0.46.172,Linux,Frankfurt,Charlie,CL-2,charlie@xyzcorp.com,+1-202-817-1167
+SRV027,host-027,10.0.70.125,Linux,Singapore,Bob,CL-7,bob@xyzcorp.com,+1-202-691-4215
+SRV028,host-028,10.0.151.99,Linux,Singapore,Fiona,CL-2,fiona@xyzcorp.com,+1-202-230-1591
+SRV029,host-029,10.0.94.201,Windows,Mumbai,George,CL-2,george@xyzcorp.com,+1-202-749-4405
+SRV030,host-030,10.0.38.25,Windows,Mumbai,Alice,CL-9,alice@xyzcorp.com,+1-202-531-6896
+SRV031,host-031,10.0.74.72,Linux,London,Bob,CL-7,bob@xyzcorp.com,+1-202-691-4215
+SRV032,host-032,10.0.47.156,Linux,New York,Diana,CL-4,diana@xyzcorp.com,+1-202-789-3073
+SRV033,host-033,10.0.206.241,Linux,Mumbai,Charlie,CL-9,charlie@xyzcorp.com,+1-202-817-1167
+SRV034,host-034,10.0.70.112,Linux,Singapore,Hannah,CL-6,hannah@xyzcorp.com,+1-202-151-5538
+SRV035,host-035,10.0.136.46,Windows,Singapore,Bob,CL-6,bob@xyzcorp.com,+1-202-691-4215
+SRV036,host-036,10.0.83.37,Windows,New York,Alice,CL-9,alice@xyzcorp.com,+1-202-531-6896
+SRV037,host-037,10.0.244.86,Windows,New York,Ethan,CL-9,ethan@xyzcorp.com,+1-202-853-1213
+SRV038,host-038,10.0.38.116,Linux,London,Bob,CL-2,bob@xyzcorp.com,+1-202-691-4215
+SRV039,host-039,10.0.27.208,Windows,New York,Alice,CL-10,alice@xyzcorp.com,+1-202-531-6896
+SRV040,host-040,10.0.135.185,Windows,New York,Bob,CL-6,bob@xyzcorp.com,+1-202-691-4215
+SRV041,host-041,10.0.187.69,Linux,Mumbai,Hannah,CL-10,hannah@xyzcorp.com,+1-202-151-5538
+SRV042,host-042,10.0.67.27,Windows,London,Fiona,CL-8,fiona@xyzcorp.com,+1-202-230-1591
+SRV043,host-043,10.0.177.175,Linux,Singapore,Bob,CL-8,bob@xyzcorp.com,+1-202-691-4215
+SRV044,host-044,10.0.150.96,Windows,Frankfurt,George,CL-3,george@xyzcorp.com,+1-202-749-4405
+SRV045,host-045,10.0.248.214,Linux,New York,Charlie,CL-2,charlie@xyzcorp.com,+1-202-817-1167
+SRV046,host-046,10.0.23.82,Linux,New York,George,CL-7,george@xyzcorp.com,+1-202-749-4405
+SRV047,host-047,10.0.222.200,Windows,Singapore,Alice,CL-9,alice@xyzcorp.com,+1-202-531-6896
+SRV048,host-048,10.0.64.1,Linux,Frankfurt,Fiona,CL-9,fiona@xyzcorp.com,+1-202-230-1591
+SRV049,host-049,10.0.72.33,Linux,Frankfurt,Alice,CL-1,alice@xyzcorp.com,+1-202-531-6896
+SRV050,host-050,10.0.187.128,Linux,Singapore,Alice,CL-1,alice@xyzcorp.com,+1-202-531-6896
+SRV051,host-051,10.0.0.182,Windows,New York,Hannah,CL-6,hannah@xyzcorp.com,+1-202-151-5538
+SRV052,host-052,10.0.9.241,Windows,Frankfurt,Diana,CL-4,diana@xyzcorp.com,+1-202-789-3073
+SRV053,host-053,10.0.25.17,Windows,London,Fiona,CL-8,fiona@xyzcorp.com,+1-202-230-1591
+SRV054,host-054,10.0.204.57,Windows,Mumbai,Charlie,CL-9,charlie@xyzcorp.com,+1-202-817-1167
+SRV055,host-055,10.0.175.105,Windows,London,Alice,CL-10,alice@xyzcorp.com,+1-202-531-6896
+SRV056,host-056,10.0.140.244,Windows,New York,George,CL-4,george@xyzcorp.com,+1-202-749-4405
+SRV057,host-057,10.0.27.118,Windows,Mumbai,Ethan,CL-2,ethan@xyzcorp.com,+1-202-853-1213
+SRV058,host-058,10.0.87.55,Windows,Mumbai,Hannah,CL-9,hannah@xyzcorp.com,+1-202-151-5538
+SRV059,host-059,10.0.69.72,Linux,London,Ethan,CL-7,ethan@xyzcorp.com,+1-202-853-1213
+SRV060,host-060,10.0.240.254,Linux,Singapore,Bob,CL-10,bob@xyzcorp.com,+1-202-691-4215
+SRV061,host-061,10.0.90.129,Windows,New York,Bob,CL-3,bob@xyzcorp.com,+1-202-691-4215
+SRV062,host-062,10.0.83.236,Windows,Singapore,Hannah,CL-9,hannah@xyzcorp.com,+1-202-151-5538
+SRV063,host-063,10.0.167.228,Windows,New York,Alice,CL-10,alice@xyzcorp.com,+1-202-531-6896
+SRV064,host-064,10.0.143.2,Windows,Mumbai,Diana,CL-8,diana@xyzcorp.com,+1-202-789-3073
+SRV065,host-065,10.0.29.23,Linux,New York,Bob,CL-3,bob@xyzcorp.com,+1-202-691-4215
+SRV066,host-066,10.0.248.134,Linux,Frankfurt,Bob,CL-9,bob@xyzcorp.com,+1-202-691-4215
+SRV067,host-067,10.0.93.42,Linux,Mumbai,Hannah,CL-5,hannah@xyzcorp.com,+1-202-151-5538
+SRV068,host-068,10.0.134.184,Linux,London,Charlie,CL-6,charlie@xyzcorp.com,+1-202-817-1167
+SRV069,host-069,10.0.231.62,Linux,Singapore,Fiona,CL-5,fiona@xyzcorp.com,+1-202-230-1591
+SRV070,host-070,10.0.46.35,Linux,Singapore,Hannah,CL-1,hannah@xyzcorp.com,+1-202-151-5538
+SRV071,host-071,10.0.214.19,Linux,Frankfurt,Hannah,CL-2,hannah@xyzcorp.com,+1-202-151-5538
+SRV072,host-072,10.0.199.242,Linux,Frankfurt,Diana,CL-9,diana@xyzcorp.com,+1-202-789-3073
+SRV073,host-073,10.0.191.2,Linux,New York,George,CL-3,george@xyzcorp.com,+1-202-749-4405
+SRV074,host-074,10.0.246.17,Windows,New York,Hannah,CL-3,hannah@xyzcorp.com,+1-202-151-5538
+SRV075,host-075,10.0.30.202,Linux,Mumbai,Ethan,CL-8,ethan@xyzcorp.com,+1-202-853-1213
+SRV076,host-076,10.0.179.242,Linux,Frankfurt,Hannah,CL-3,hannah@xyzcorp.com,+1-202-151-5538
+SRV077,host-077,10.0.30.24,Linux,New York,Diana,CL-1,diana@xyzcorp.com,+1-202-789-3073
+SRV078,host-078,10.0.59.148,Linux,Singapore,George,CL-1,george@xyzcorp.com,+1-202-749-4405
+SRV079,host-079,10.0.190.250,Linux,Singapore,George,CL-3,george@xyzcorp.com,+1-202-749-4405
+SRV080,host-080,10.0.0.157,Windows,Singapore,Alice,CL-9,alice@xyzcorp.com,+1-202-531-6896
+SRV081,host-081,10.0.91.217,Windows,London,Ethan,CL-4,ethan@xyzcorp.com,+1-202-853-1213
+SRV082,host-082,10.0.237.227,Windows,New York,Ethan,CL-10,ethan@xyzcorp.com,+1-202-853-1213
+SRV083,host-083,10.0.55.252,Linux,Singapore,Diana,CL-5,diana@xyzcorp.com,+1-202-789-3073
+SRV084,host-084,10.0.44.81,Windows,Singapore,Bob,CL-9,bob@xyzcorp.com,+1-202-691-4215
+SRV085,host-085,10.0.95.110,Linux,London,Alice,CL-3,alice@xyzcorp.com,+1-202-531-6896
+SRV086,host-086,10.0.41.192,Linux,New York,Hannah,CL-4,hannah@xyzcorp.com,+1-202-151-5538
+SRV087,host-087,10.0.22.191,Windows,London,Bob,CL-3,bob@xyzcorp.com,+1-202-691-4215
+SRV088,host-088,10.0.185.59,Windows,London,Fiona,CL-3,fiona@xyzcorp.com,+1-202-230-1591
+SRV089,host-089,10.0.225.14,Windows,Frankfurt,Hannah,CL-1,hannah@xyzcorp.com,+1-202-151-5538
+SRV090,host-090,10.0.69.52,Windows,Mumbai,George,CL-5,george@xyzcorp.com,+1-202-749-4405
+SRV091,host-091,10.0.22.9,Windows,London,Hannah,CL-2,hannah@xyzcorp.com,+1-202-151-5538
+SRV092,host-092,10.0.236.19,Linux,Mumbai,Bob,CL-5,bob@xyzcorp.com,+1-202-691-4215
+SRV093,host-093,10.0.220.152,Linux,Mumbai,Charlie,CL-5,charlie@xyzcorp.com,+1-202-817-1167
+SRV094,host-094,10.0.160.175,Linux,Singapore,Ethan,CL-8,ethan@xyzcorp.com,+1-202-853-1213
+SRV095,host-095,10.0.7.2,Windows,Frankfurt,Alice,CL-5,alice@xyzcorp.com,+1-202-531-6896
+SRV096,host-096,10.0.247.66,Windows,Frankfurt,Diana,CL-4,diana@xyzcorp.com,+1-202-789-3073
+SRV097,host-097,10.0.44.225,Linux,New York,Diana,CL-3,diana@xyzcorp.com,+1-202-789-3073
+SRV098,host-098,10.0.159.144,Windows,London,Alice,CL-9,alice@xyzcorp.com,+1-202-531-6896
+SRV099,host-099,10.0.167.179,Linux,Frankfurt,Ethan,CL-2,ethan@xyzcorp.com,+1-202-853-1213
+SRV100,host-100,10.0.150.59,Linux,Singapore,Alice,CL-2,alice@xyzcorp.com,+1-202-531-6896

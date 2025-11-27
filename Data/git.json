@@ -1,0 +1,18 @@
+[
+	{
+	  "p_rel_url" : "sampatrc/Virtual-Server-Monitoring-and-Performance-Optimization/refs/heads/main/Data/Server_Metadata.csv",
+	  "p_sink_folder" : "Server_Metadata",
+	  "p_sink_file" : "Server_Metadata.csv"
+	},
+	{
+	  "p_rel_url" : "sampatrc/Virtual-Server-Monitoring-and-Performance-Optimization/refs/heads/main/Data/Server_Performance_Station1.csv",
+	  "p_sink_folder" : "Server_Performance_Station1",
+	  "p_sink_file" : "Server_Performance_Station1.csv"
+	},
+	{
+	  "p_rel_url" : "sampatrc/Virtual-Server-Monitoring-and-Performance-Optimization/refs/heads/main/Data/Server_Performance_Station2.csv",
+	  "p_sink_folder" : "Server_Performance_Station2",
+	  "p_sink_file" : "Server_Performance_Station2.csv"
+	}
+
+]
